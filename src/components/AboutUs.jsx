@@ -6,9 +6,9 @@ import { slideIn, staggerContainer } from "@/utils/motion";
 export const metadata = {
   title: "About Us - SA Studios",
   description:
-    "We are a team of passionate creators dedicated to crafting exceptional gaming experiences that inspire, entertain, and connect players worldwide.",
+    "We are a team of passionate creators dedicated to crafting exceptional gaming experiences that inspire, entertain, and connect players worldwide!",
 };
-
+//hellossss
 const cards = [
   {
     icon: "🎮",
